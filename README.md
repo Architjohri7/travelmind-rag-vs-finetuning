@@ -74,4 +74,4 @@ Then open `TravelMind.ipynb` and run cells top to bottom. The RAG section launch
 See [`docs/TravelMind_Report_v2.pdf.pdf`](docs/TravelMind_Report_v2.pdf.pdf) for the complete write-up, including architecture diagrams, the training loss curve, and detailed metric interpretation.
 
 ---
-*Author: Ashwath Bhuyan — DTU, Information Technology*
+*Author: Archit Johri — DTU, Information Technology*
