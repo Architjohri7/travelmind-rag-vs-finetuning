@@ -69,9 +69,5 @@ export GROQ_API_KEY="your-key-here"
 
 Then open `TravelMind.ipynb` and run cells top to bottom. The RAG section launches a Gradio interface for interactive querying; the fine-tuning section (Colab + GPU recommended) trains and serves the TinyLlama model.
 
-## Full Report
-
-See [`docs/TravelMind_Report_v2.pdf.pdf`](docs/TravelMind_Report_v2.pdf.pdf) for the complete write-up, including architecture diagrams, the training loss curve, and detailed metric interpretation.
-
 ---
 *Author: Archit Johri — DTU, Information Technology*
